@@ -1,4 +1,4 @@
 # pink-noise
-Data files and code notebooks for the paper "Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success"
+Code notebooks for the paper "Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success"
 
-<Will fill this in later>
+The data will be automatically fetched from OSF, but if you'd like to see the original audio files and transcripts, check out the project here: https://osf.io/7ju2s
