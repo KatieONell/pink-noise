@@ -6,7 +6,7 @@ Code notebooks for the paper "Complex mutual adaptation in dyads’ semantic sim
 In both notebooks, the data will be automatically fetched from OSF, but if you'd like to see the original audio files and transcripts, check out the project here: https://osf.io/7ju2s <br><br>
 
 
-<img width="1364" alt="Methods overview" src="https://github.com/user-attachments/assets/33f93593-a3e8-4487-9d5c-141a0d7ee238" />
+<img width="2560" height="1440" alt="Screenshot 2026-03-04 at 8 53 05 PM" src="https://github.com/user-attachments/assets/43010ef1-9124-4613-8c65-8c835216a28c" />
 
 
  
